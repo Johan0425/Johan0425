@@ -8,61 +8,19 @@ I am a passionate full stack developer with experience in multiple technologies.
 
 **🛠️ Backend**
 
-> 🐍 Python (Django, Flask)
-
-> ☕ Java (Spring Boot)
-
-> 🔥 Firebase
-
-> 🐳 Docker
-
-> 🗄️ Databases (PostgreSQL, MySQL, MongoDB)
-
-> 🚀 Node.js (Express.js, NestJS)
-
-> 🏗️ GraphQL & REST APIs
+> 🐍 Python (Django, Flask) | ☕ Java (Spring Boot) | 🔥 Firebase | 🐳 Docker | 🗄️ Databases (PostgreSQL, MySQL, MongoDB) | 🚀 Node.js (Express.js, NestJS) | 🏗️ GraphQL & REST APIs
 
 **🎨 Frontend**
 
-> 🎨 Material Design
-
-> 📱 Jetpack Compose (Kotlin)
-
-> ⚛️ React.js
-
-> 🌐 HTML, CSS, JavaScript
-
-> ⚡ Next.js
-
-> 🎭 Vue.js
-
-> 🖌️ Tailwind CSS & Bootstrap
+> 🎨 Material Design | 📱 Jetpack Compose (Kotlin) | ⚛️ React.js | 🌐 HTML, CSS, JavaScript | ⚡ Next.js > 🎭 Vue.js | 🖌️ Tailwind CSS & Bootstrap
 
 **📱 Mobile Development**
 
-> 🤖 Android with Kotlin
-
-> 🔗 API Integration
-
-> 📲 Flutter & Dart
-
-> 🍏 Swift (iOS Development)
+> 🤖 Android with Kotlin | 🔗 API Integration | 📲 Flutter & Dart | 🍏 Swift (iOS Development)
 
 **⚡ DevOps & Tools**
 
-> 🐧 Linux (KDE Plasma)
-
->📦 Docker & Containers
-
-> 🌐 NGINX
-
-> 🛠️ Git & GitHub
-
-> ☁️ AWS, Google Cloud & Firebase Hosting
-
-> 🔄 CI/CD (GitHub Actions, Jenkins)
-
-> 🏗️ Kubernetes & Terraform
+> 🐧 Linux (KDE Plasma) | 📦 Docker & Containers | 🌐 NGINX | 🛠️ Git & GitHub | ☁️ AWS, Google Cloud & Firebase Hosting | 🔄 CI/CD (GitHub Actions, Jenkins) | 🏗️ Kubernetes & Terraform
 
 
 # 🎯 Featured Projects
