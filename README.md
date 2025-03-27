@@ -20,7 +20,7 @@ I am a passionate full stack developer with experience in multiple technologies.
 
 **⚡ DevOps & Tools**
 
-> 🐧 Linux (KDE Plasma) | 📦 Docker & Containers | 🌐 NGINX | 🛠️ Git & GitHub | ☁️ AWS, Google Cloud & Firebase Hosting | 🔄 CI/CD (GitHub Actions, Jenkins) | 🏗️ Kubernetes & Terraform
+> 🐧 Linux | 📦 Docker & Containers | 🌐 NGINX | 🛠️ Git & GitHub | ☁️ AWS, Google Cloud & Firebase Hosting | 🔄 CI/CD (GitHub Actions, Jenkins) | 🏗️ Kubernetes & Terraform
 
 
 # 🎯 Featured Projects
