@@ -35,3 +35,7 @@ I am a passionate full stack developer with experience in multiple technologies.
 | 🌍 portfolio(updating, coming soon) | 📧 joanpe25@hotmail.com |
 
 I am always open to new opportunities and collaborations! 🚀
+
+<p align="center">
+  <img src="https://github.com/Johan0425/Johan0425/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
