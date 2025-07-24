@@ -32,7 +32,7 @@ I am a passionate full stack developer with experience in multiple technologies.
 
 # 📫 Connect with Me!
 
-| 🌍 https://portfolio-johanpl.framer.website/ | 📧 joanpe25@hotmail.com |
+| 🌍 https://portfolio-johanpl.framer.website/ (Soon there will be a new update with more robust new projects)| 📧 joanpe25@hotmail.com |
 
 I am always open to new opportunities and collaborations! 🚀
 
