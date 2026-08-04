@@ -1,41 +1,15 @@
-# 👋 Hi, I'm Johan! 🚀
+# Johan Peña
 
-**💻 About Me** 
+Full-Stack Developer specialized in Oracle APEX & PL/SQL, building scalable healthcare and business systems.
 
-I am a passionate full stack developer with experience in multiple technologies. I love creating innovative solutions, optimizing processes, and building efficient applications that make a difference. I am always learning and exploring new tools to improve my skills.
+**Stack:** Python · Java · Kotlin · TypeScript/JavaScript · SQL/PL-SQL · React · Node.js
 
-# 🚀 Technologies & Skills
+## Featured Projects
 
-**🛠️ Backend**
+- **[DoBot](https://github.com/Johan0425/DoBot)** — AI-powered Kanban task manager with conversational automation.
+- **[portfolio_v2.0](https://github.com/Johan0425/portfolio_v2.0)** — 3D interactive portfolio built with Next.js, TypeScript, and React Three Fiber.
+- **[products-go_api](https://github.com/Johan0425/products-go_api)** — REST API built in Go.
+- **[spring-microservice](https://github.com/Johan0425/spring-microservice)** — Microservice architecture with Spring Boot.
+- **[gym_imperius](https://github.com/Johan0425/gym_imperius)** — Gym management system (inventory, memberships, roles).
 
-> 🐍 Python (Django, Flask) | ☕ Java (Spring Boot) | 🔥 Firebase | 🐳 Docker | 🗄️ Databases (PostgreSQL, MySQL, MongoDB) | 🚀 Node.js (Express.js, NestJS) | 🏗️ GraphQL & REST APIs
-
-**🎨 Frontend**
-
-> 🎨 Material Design | 📱 Jetpack Compose (Kotlin) | ⚛️ React.js | 🌐 HTML, CSS, JavaScript | ⚡ Next.js > 🎭 Vue.js | 🖌️ Tailwind CSS & Bootstrap
-
-**📱 Mobile Development**
-
-> 🤖 Android with Kotlin | 🔗 API Integration | 📲 Flutter & Dart | 🍏 Swift (iOS Development)
-
-**⚡ DevOps & Tools**
-
-> 🐧 Linux | 📦 Docker & Containers | 🌐 NGINX | 🛠️ Git & GitHub | ☁️ AWS, Google Cloud & Firebase Hosting | 🔄 CI/CD (GitHub Actions, Jenkins) | 🏗️ Kubernetes & Terraform
-
-
-# 🎯 Featured Projects
-
-- **UniEventos**: Ticket sales application for events in Colombia, featuring authentication, client management, and event administration.
-- **Client Manager**: Application that organizes clients based on active and expired memberships with a color-coded system and dynamic sorting.
-- **Airport Project**: System capable of scheduling flights, with different interfaces for each role with multiple functionalities for each user.
-- **Gym Imperius**: Management system for a gym, inventory and membership management, multiple functionalities for each role.
-
-# 📫 Connect with Me!
-
-| 🌍 https://portfolio-johanpl.framer.website/ (Soon there will be a new update with more robust new projects)| 📧 joanpe25@hotmail.com |
-
-I am always open to new opportunities and collaborations! 🚀
-
-<p align="center">
-  <img src="https://github.com/Johan0425/Johan0425/blob/output/github-contribution-grid-snake-dark.svg" />
-</p>
+**Connect:** [Portfolio](https://portfolio-johanpl.framer.website/) · [LinkedIn](https://www.linkedin.com/in/johan-pe%C3%B1a-84b994267/)
