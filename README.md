@@ -13,3 +13,7 @@ Full-Stack Developer specialized in Oracle APEX & PL/SQL, building scalable heal
 - **[gym_imperius](https://github.com/Johan0425/gym_imperius)** — Gym management system (inventory, memberships, roles).
 
 **Connect:** [Portfolio](https://portfolio-johanpl.framer.website/) · [LinkedIn](https://www.linkedin.com/in/johan-pe%C3%B1a-84b994267/)
+
+---
+
+🐍 ![snake gif](https://github.com/Johan0425/Johan0425/blob/main/github-contribution-grid-snake.svg)
