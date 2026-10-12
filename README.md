@@ -66,7 +66,13 @@
 
 <br>
 
-<samp><a href="https://github.com/Johan0425">github.com/Johan0425</a> &nbsp;·&nbsp; <a href="mailto:joanpe.dev@gmail.com">joanpe.dev@gmail.com</a></samp>
+<samp>
+  <a href="https://github.com/Johan0425">github.com/Johan0425</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:joanpe.dev@gmail.com">joanpe.dev@gmail.com</a>
+  &nbsp;·&nbsp;
+  <a href="https://joanpe.dev">Portfolio</a>
+</samp>
 
 <br>
 
